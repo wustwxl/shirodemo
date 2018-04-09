@@ -1,0 +1,12 @@
+2018-04-09 14:26:39,718  INFO ShirodemoApplication:48 ---- Starting ShirodemoApplication on F7687967AA with PID 5316 (D:\IdeaProjects\shirodemo\target\classes started by F7687967 in D:\IdeaProjects\shirodemo)
+2018-04-09 14:26:39,722 DEBUG ShirodemoApplication:51 ---- Running with Spring Boot v1.5.7.RELEASE, Spring v4.3.11.RELEASE
+2018-04-09 14:26:39,723  INFO ShirodemoApplication:593 ---- No active profile set, falling back to default profiles: default
+2018-04-09 14:26:49,940  INFO RedisConfig$$EnhancerBySpringCGLIB$$cd4eca1b:47 ---- 缓存服务器信息JedisPoolConfig：redis.clients.jedis.JedisPoolConfig@a30132
+2018-04-09 14:26:49,960  INFO RedisConfig$$EnhancerBySpringCGLIB$$cd4eca1b:32 ---- 缓存服务器的地址：127.0.0.1:6379
+2018-04-09 14:26:58,991  INFO ShirodemoApplication:57 ---- Started ShirodemoApplication in 20.358 seconds (JVM running for 25.5)
+2018-04-09 14:28:39,676 ERROR HomeController:50 ---- errorCode-----ksQ6c7ihg9cO
+2018-04-09 14:28:39,678  INFO MyShiroRealm:41 ---- 身份验证-->MyShiroRealm.doGetAuthenticationInfo()
+2018-04-09 14:28:40,748  INFO RedisClient:542 ---- 缓存服务器连接异常！
+2018-04-09 14:28:40,787 ERROR HomeController:94 ---- Authentication failed for token submission [org.apache.shiro.authc.UsernamePasswordToken - 123, rememberMe=false].  Possible unexpected error? (Typical or expected login exceptions should extend from AuthenticationException).
+2018-04-09 14:29:43,834 ERROR HomeController:50 ---- errorCode-----4Q36l4bW588m
+2018-04-09 14:29:43,835  INFO MyShiroRealm:41 ---- 身份验证-->MyShiroRealm.doGetAuthenticationInfo()
